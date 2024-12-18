@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iwc0nfig
-- 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... Machine Learning and Neural Network
+- 👀 I’m interested in ... General Intelligence and artificial abstract thinking 
+- 🌱 I’m currently learning ... Machine Learning , Neural Network and Reinforcement learning 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... my email is wwstrxgmail.com
 
